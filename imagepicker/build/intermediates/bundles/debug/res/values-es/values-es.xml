@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">CAMARA</string>
+    <string name="done">OK</string>
+    <string name="error_create_image_file">Falloa Al crear la imagen</string>
+    <string name="error_no_camera">No tienes camara</string>
+    <string name="error_null_cursor">Oops, algo fue mal!</string>
+    <string name="msg_empty_images">No Se encontraron imagenes</string>
+    <string name="msg_limit_images">Limite de selecciones</string>
+    <string name="msg_no_camera_permission">Por favor denos el permiso de cámara para capturar imagenes</string>
+    <string name="msg_no_write_external_permission">Por favor denos el permiso de ver sus archivos para seleccionar imagenes</string>
+    <string name="ok">OK</string>
+    <string name="permission_write_external_rationale">Dar permiso de acceso al almacenamiento externo para seleccionar imagenes</string>
+    <string name="selected">%d seleccionadas</string>
+    <string name="selected_with_limit">%1$d/%2$d seleccionada</string>
+    <string name="title_folder">Carpeta</string>
+    <string name="title_permission_denied">Permiso Denegado</string>
+    <string name="title_select_image">Toca para seleccionar imagenes</string>
+</resources>

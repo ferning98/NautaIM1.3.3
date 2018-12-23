@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="copy_email">Copiar email</string>
+    <string name="copy_number">Copiar numero</string>
+    <string name="done">Atras</string>
+    <string name="more_string">\u002B<ns1:g id="count">%1$s</ns1:g></string>
+</resources>

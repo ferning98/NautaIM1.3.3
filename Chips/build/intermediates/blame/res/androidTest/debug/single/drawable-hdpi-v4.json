@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_contact_picture.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_contact_picture.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\chip_delete.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\chip_delete.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\chip_background_selected.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\chip_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\chip_background.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\chip_background.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\chip_background_invalid.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\chip_background_invalid.9.png"
+    }
+]

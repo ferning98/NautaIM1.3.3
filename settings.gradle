@@ -1,0 +1,1 @@
+include ':app', ':MaterialishProgress', ':SweetAlert', ':silicompressor', ':glide-3.7.0', ':imagepicker', ':rebound-0.3.8', ':onboarder', ':acra-4.9.2', ':bubbles', ':Chips', ':AVLoadingIndicator', ':talking', ':FilePicker', ':WizardPager'

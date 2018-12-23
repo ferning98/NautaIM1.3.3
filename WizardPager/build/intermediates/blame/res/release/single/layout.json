@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\res\\merged\\release\\layout\\fragment_page.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\res\\merged\\release\\layout\\fragment_page_text.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\layout\\fragment_page_text.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\res\\merged\\release\\layout\\fragment_page_image.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\layout\\fragment_page_image.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\res\\merged\\release\\layout\\fragment_page_geo.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\layout\\fragment_page_geo.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\res\\merged\\release\\layout\\list_item_review.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\layout\\list_item_review.xml"
+    }
+]

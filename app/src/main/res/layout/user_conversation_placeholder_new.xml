@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#fff"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="@drawable/bg_round_new"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/relLayoutConversations"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="F"
+            android:gravity="center"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/txtLetraInicial"
+            android:background="@drawable/text_round_drawable"
+            android:padding="10dp"
+            android:maxHeight="50dp"
+            android:maxWidth="50dp"
+            android:textStyle="normal|bold"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#fff"
+            android:textSize="24sp" />
+
+        <TextView
+            android:text="Fernandez Pablo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/txtLetraInicial"
+            android:layout_toRightOf="@+id/txtLetraInicial"
+            android:layout_toEndOf="@+id/txtLetraInicial"
+            android:id="@+id/txtNombreContacto"
+            android:textStyle="bold" />
+
+        <TextView
+            android:text="Ayer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtMessage"
+            android:layout_toRightOf="@+id/txtLetraInicial"
+            android:layout_toEndOf="@+id/txtLetraInicial"
+            android:id="@+id/txtFecha"
+            android:layout_marginTop="5dp"
+            android:textSize="10sp" />
+
+        <TextView
+            android:text="Tu: Este sería el mensaje que te enviaron o enviaste..."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtMessage"
+            android:layout_below="@+id/txtNombreContacto"
+            android:layout_toRightOf="@+id/txtLetraInicial"
+            android:layout_toEndOf="@+id/txtLetraInicial"
+            android:layout_marginTop="5dp"
+            android:textSize="12sp"
+            android:maxLines="1" />
+    </RelativeLayout>
+
+
+
+</LinearLayout>

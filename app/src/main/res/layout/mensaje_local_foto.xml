@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="5dp"
+    android:alpha="0.91"
+    tools:context="com.fernapps.nautaim.MainActivity"
+    android:id="@+id/layoutHolderMensajeExternal">
+
+    <TextView
+        android:text="martes 4 de abir 12:30PM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/mensaje_date"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/txtMsgDate" />
+
+
+    <ImageView
+        android:text="Este seria el texto que nos enviaronnnnnnn o envieeeeeeeeeee"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@drawable/mensaje_local_foto"
+        android:elevation="0dp"
+        android:maxHeight="160dp"
+        android:maxWidth="160dp"
+        android:scaleType="centerInside"
+        android:id="@+id/txtMsg"
+        android:src="@drawable/error_circle"
+        android:layout_below="@+id/txtMsgDate"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:padding="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="15dp"
+        android:layout_marginRight="9dp"
+        android:layout_marginLeft="50dp" />
+
+    <com.pnikosis.materialishprogress.ProgressWheel
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:visibility="invisible"
+        app:matProg_progressIndeterminate="true"
+        app:matProg_barColor="@color/colorPrimary"
+        android:id="@+id/sendingProgress"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Enviando..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMsg"
+        android:layout_alignRight="@+id/txtMsg"
+        android:layout_alignEnd="@+id/txtMsg"
+        android:id="@+id/txtInfoMsg"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp" />
+
+    <ImageView
+        android:src="@drawable/ic_action_tick"
+        android:layout_alignTop="@+id/txtInfoMsg"
+        android:layout_toLeftOf="@+id/txtInfoMsg"
+        android:layout_toStartOf="@+id/txtInfoMsg"
+        android:id="@+id/imgInfoSent"
+        android:layout_width="20dp"
+        android:layout_below="@+id/txtMsg"
+        android:layout_alignRight="@+id/txtMsg"
+        android:layout_alignEnd="@+id/txtMsg"
+        android:layout_height="20dp"
+        android:visibility="invisible"
+        android:tint="@color/colorAccent"
+        android:layout_marginLeft="5dp" />
+    <ImageView
+        android:src="@drawable/ic_action_tick"
+        android:layout_alignTop="@+id/imgInfoSent"
+        android:layout_toLeftOf="@+id/imgInfoSent"
+        android:layout_toStartOf="@+id/imgInfoSent"
+        android:id="@+id/imgInfoReceived"
+        android:visibility="invisible"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:tint="@color/colorAccent"
+        android:layout_marginRight="-20dp" />
+
+
+
+</RelativeLayout>

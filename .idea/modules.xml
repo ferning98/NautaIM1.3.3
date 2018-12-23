@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVLoadingIndicator/AVLoadingIndicator.iml" filepath="$PROJECT_DIR$/AVLoadingIndicator/AVLoadingIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chips/Chips.iml" filepath="$PROJECT_DIR$/Chips/Chips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilePicker/FilePicker.iml" filepath="$PROJECT_DIR$/FilePicker/FilePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialishProgress/MaterialishProgress.iml" filepath="$PROJECT_DIR$/MaterialishProgress/MaterialishProgress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NautaIM.iml" filepath="$PROJECT_DIR$/NautaIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SweetAlert/SweetAlert.iml" filepath="$PROJECT_DIR$/SweetAlert/SweetAlert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WizardPager/WizardPager.iml" filepath="$PROJECT_DIR$/WizardPager/WizardPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acra-4.9.2/acra-4.9.2.iml" filepath="$PROJECT_DIR$/acra-4.9.2/acra-4.9.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbles/bubbles.iml" filepath="$PROJECT_DIR$/bubbles/bubbles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide-3.7.0/glide-3.7.0.iml" filepath="$PROJECT_DIR$/glide-3.7.0/glide-3.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagepicker/imagepicker.iml" filepath="$PROJECT_DIR$/imagepicker/imagepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onboarder/onboarder.iml" filepath="$PROJECT_DIR$/onboarder/onboarder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebound-0.3.8/rebound-0.3.8.iml" filepath="$PROJECT_DIR$/rebound-0.3.8/rebound-0.3.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silicompressor/silicompressor.iml" filepath="$PROJECT_DIR$/silicompressor/silicompressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talking/talking.iml" filepath="$PROJECT_DIR$/talking/talking.iml" />
+    </modules>
+  </component>
+</project>

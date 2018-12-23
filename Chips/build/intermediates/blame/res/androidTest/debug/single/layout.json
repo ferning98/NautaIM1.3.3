@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\more_item.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chips_alternate_item.xml",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\layout\\chips_alternate_item.xml"
+    }
+]

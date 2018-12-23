@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutHolderMensajeExternal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="5dp"
+    android:alpha="0.91"
+    android:elevation="5dp"
+    tools:context="com.fernapps.nautaim.MainActivity">
+
+    <TextView
+        android:id="@+id/txtMsgDate"
+        android:background="@drawable/mensaje_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="martes 4 de abir 12:30PM" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/txtMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMsgDate"
+        android:layout_marginLeft="9dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/containerLetraInicial"
+        android:background="@drawable/mensaje_external_audio"
+        android:elevation="0dp"
+        android:maxHeight="160dp"
+        android:maxWidth="160dp"
+        android:padding="8dp"
+        android:scaleType="centerInside"
+        android:src="@android:drawable/ic_media_play"
+        android:text="Este seria el texto que nos enviaronnnnnnn o envieeeeeeeeeee"
+        android:textColor="#fff"
+        android:textSize="15dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:background="@drawable/text_round_drawable"
+        android:maxHeight="30dp"
+        android:orientation="vertical"
+        android:maxWidth="30dp"
+        android:gravity="center"
+        android:id="@+id/containerLetraInicial"
+        android:layout_alignBottom="@+id/txtMsg"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginBottom="5dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="F"
+            android:maxHeight="28dp"
+            android:maxWidth="28dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtLetraInicial"
+            android:textStyle="normal|bold"
+            android:textColor="#fff"
+            android:textSize="14sp"
+            />
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

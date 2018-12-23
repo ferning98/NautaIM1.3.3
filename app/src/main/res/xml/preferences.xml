@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Correo y Datos de usuario">
+        <EditTextPreference
+            android:hint="usuario@nauta.cu"
+            android:inputType="textEmailAddress"
+            android:key="username_mail"
+            android:singleLine="true"
+            android:title="Nombre de usuario" />
+        <EditTextPreference
+            android:hint="Su Contraseña"
+            android:inputType="textPassword"
+            android:key="pass_email"
+            android:singleLine="true"
+            android:title="Contraseña de la cuenta" />
+        <EditTextPreference
+            android:dialogMessage="Con este nombre enviaremos los mensajes para que los que no te tengan como contacto te reconozcan."
+            android:hint="Su Nombre"
+            android:inputType="textPersonName"
+            android:key="name_email"
+            android:singleLine="true"
+            android:title="Su Nombre" />
+        <EditTextPreference
+            android:dialogMessage="Direccion de su servidor de entrada (IMAP). Si usa Nauta, no necesita cambiar nada, pero la dirección es imap.nauta.cu. Si usa otro correos diríjase al administrador o a la ayuda del servicio."
+            android:hint="imap.nauta.cu"
+            android:inputType="textWebEditText"
+            android:key="serverIn"
+            android:singleLine="true"
+            android:title="Servidor de entrada" />
+        <EditTextPreference
+            android:dialogMessage="Puerto de su servidor de entrada (IMAP). Este puerto es por lo general el 143"
+            android:hint="143"
+            android:inputType="number"
+            android:key="serverInPort"
+            android:singleLine="true"
+            android:title="Puerto de entrada" />
+        <EditTextPreference
+            android:dialogMessage="Direccion de su servidor de salida (SMTP). Si usa Nauta, no necesita cambiar nada, pero la dirección es smtp.nauta.cu. Si usa otro correos diríjase al administrador o a la ayuda del servicio."
+            android:hint="smtp.nauta.cu"
+            android:inputType="textWebEditText"
+            android:key="serverOut"
+            android:singleLine="true"
+            android:title="Servidor de salida" />
+        <EditTextPreference
+            android:dialogMessage="Puerto de su servidor de salida (SMTP). Este puerto es por lo general el 25"
+            android:hint="25"
+            android:inputType="number"
+            android:key="serverOutPort"
+            android:singleLine="true"
+            android:title="Puerto de salida" />
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/cifrados"
+            android:entryValues="@array/cifradosNum"
+            android:key="pref_cifrado"
+            android:summary="Cifrado usado por su servidor de correos"
+            android:title="Cifrado" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="confirmations_data"
+            android:summary="Si activas esta opción enviarás y podrás recibir las confirmaciones de lectura de los mensajes mientras estás conectado a los datos. Esto incurre en un gasto un poco mayor pero acerca aún mas la experiencia a un chat en internet. Nota: Si decide activarlo y ya le habian enviado algunas confirmaciones de lectura, todas estas serán descargadas. ADVERTENCIA: Estas opciones están en fase experimental y puede que no siempre funcionen como deberían."
+            android:title="Enviar y recibir confirmaciones de lectura usando los datos" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="confirmations_wifi"
+            android:summary="Enviar y recibir las confirmaciones de lectura de los mensajes mientras está conectado a una red que no sea de datos móviles (WiFi, Bluetooth, etc). La otra persona debe tener habilitada esta opción para que funcione correctamente. ADVERTENCIA: Estas opciones están en fase experimental y puede que no siempre funcionen como deberían."
+            android:title="Enviar y recibir confirmaciones de lectura en otro tipo de conexiones" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Personalización">
+        <EditTextPreference
+            android:dialogMessage="Cantidad máxima a mostrar en cada conversasción. Si su teléfono se ralentiza al abrir una conversasción, reduzca este número. Por defecto: 100"
+            android:hint="100"
+            android:inputType="number"
+            android:key="limitMsg"
+            android:singleLine="true"
+            android:title="Mensajes por conversación" />
+
+        <EditTextPreference
+            android:dialogMessage="Tiempo que vibrará el teléfono al recibir un mensaje con el push activo, en milisegundos. 1 segundo = 1000 milisegundos:"
+            android:hint="300"
+            android:inputType="number"
+            android:key="timeVibrate"
+            android:singleLine="true"
+            android:title="Tiempo de vibración" />
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="Notificaciones">
+        <RingtonePreference
+            android:key="sound_success"
+            android:ringtoneType="notification"
+            android:title="Tono de éxito al enviar" />
+        <RingtonePreference
+            android:key="sound_fail"
+            android:ringtoneType="notification"
+            android:title="Tono de error al enviar" />
+        <RingtonePreference
+            android:key="sound_newMsg"
+            android:ringtoneType="notification"
+            android:title="Tono Nuevo Mensaje" />
+        <RingtonePreference
+            android:key="sound_newConfirmation"
+            android:ringtoneType="notification"
+            android:title="Tono Confirmaciones de lectura" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Avanzadas (Solo cambia algo si sabes lo que haces!!)">
+        <EditTextPreference
+            android:dialogMessage="Especifica el tiempo máximo en segundos que deberá esperar la app a que los servidores de correos respondan. Deberá ser mayor a 15 segundos. Por defecto es 20 segundos. Para el Imap Push, tiene que ser 3 minutos, no hay de otra."
+            android:inputType="number"
+            android:key="timeout"
+            android:hint="20"
+            android:title="Tiempo de espera" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

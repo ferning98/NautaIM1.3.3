@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:6:22-75
+application
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:support-v4:23.0.1] D:\Development\Nueva Era\NautaIM\ChatHead\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:12:9-40
+activity#henrychuang.tw.chatheadmsg.Main
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:14:10-22:20
+	android:label
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:17:13-45
+	android:launchMode
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:15:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:20:27-74
+activity#henrychuang.tw.chatheadmsg.MyDialog
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:24:10-25:65
+	android:launchMode
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:24:71-102
+	android:theme
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:25:14-62
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:24:20-70
+service#henrychuang.tw.chatheadmsg.ChatHeadService
+ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:27:9-86
+	android:name
+		ADDED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml:27:18-75
+uses-sdk
+INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:23.0.1] D:\Development\Nueva Era\NautaIM\ChatHead\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Nueva Era\NautaIM\ChatHead\src\main\AndroidManifest.xml

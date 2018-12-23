@@ -1,0 +1,458 @@
+[
+    {
+        "outputFile": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endLine": 10,
+                        "endColumn": 19,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 48,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 48,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 61,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 61,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 65,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 65,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 70,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 70,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 65,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 65,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 46,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 46,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 53,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 53,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 52,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 52,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 53,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 53,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 51,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 51,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 52,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 52,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 51,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 51,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 59,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 59,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 61,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 61,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 62,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 41,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 41,
+                        "endOffset": 53
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2408
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2413,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2247,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3572
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 828
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fernapps.nautaim.MainActivity">
+
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="Compartir"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share"
+        android:checkable="false" />
+
+    <item
+        android:id="@+id/action_update"
+        android:orderInCategory="100"
+        android:title="Recibir desde el correo"
+        app:showAsAction="never"
+        android:checkable="false" />
+    <item
+        android:id="@+id/action_retrySend"
+        android:orderInCategory="100"
+        android:title="Enviar los pendientes"
+        app:showAsAction="never"
+        android:checkable="false" />
+    <item
+        android:id="@+id/action_deleteUnsent"
+        android:orderInCategory="100"
+        android:title="Eliminar no enviados"
+        app:showAsAction="never"
+        android:checkable="false" />
+    <item
+        android:id="@+id/action_activatePush"
+        android:orderInCategory="100"
+        android:title="Activar Push"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_desactivatePush"
+        android:orderInCategory="100"
+        android:title="Desactivar Push"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_bolsanauta"
+        android:orderInCategory="100"
+        android:title="Contratar o Verificar bolsa Nauta"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Preferencias"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="Acerca de la app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="Ayuda"
+        app:showAsAction="never" />
+
+</menu>

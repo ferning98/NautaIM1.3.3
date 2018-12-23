@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efeeee"
+    android:fitsSystemWindows="true"
+    tools:context="com.fernapps.nautaim.ChatActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/scrollViewChats"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/sendMsgLayout"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            tools:context="com.fernapps.nautaim.ChatActivity">
+
+            <LinearLayout
+                android:id="@+id/chatsContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp" />
+
+        </ScrollView>
+
+
+        <RelativeLayout
+            android:id="@+id/sendMsgLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#b3c2e9"
+            android:padding="5dp">
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/imgSendVoice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="6dp"
+                android:onClick="newMsgForSending"
+                android:src="@android:drawable/presence_audio_online"
+                app:fabSize="mini" />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/imgSendMsg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="6dp"
+                android:layout_toLeftOf="@+id/imgSendVoice"
+                android:onClick="newMsgForSending"
+                android:src="@android:drawable/ic_menu_send"
+                app:fabSize="mini" />
+
+
+            <EditText
+                android:id="@+id/txtMsgToSend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_toLeftOf="@id/imgSendMsg"
+                android:allowUndo="true"
+                android:hint="Escriba un mensaje"
+                android:inputType="textCapSentences|textMultiLine"
+                android:maxLines="5" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/thereIsNoMessagesLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="50dp"
+            android:visibility="invisible">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="No hay mensajes aún"
+                android:textColor="@color/colorAccentTransparent"
+                android:textSize="50sp"
+                android:textStyle="normal|bold"
+                android:typeface="sans" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/recordingLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="50dp"
+            android:visibility="invisible">
+
+            <ImageView
+                android:id="@+id/recordImageView"
+                android:layout_width="210dp"
+                android:layout_height="210dp"
+                android:alpha="0.6"
+                android:src="@drawable/mic" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>
+
+

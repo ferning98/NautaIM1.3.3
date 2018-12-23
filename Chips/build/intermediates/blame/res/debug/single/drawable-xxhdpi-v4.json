@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chip_background_selected.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\drawable-xxhdpi\\chip_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chip_background_invalid.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\drawable-xxhdpi\\chip_background_invalid.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chip_background.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\drawable-xxhdpi\\chip_background.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chip_delete.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\drawable-xxhdpi\\chip_delete.png"
+    }
+]

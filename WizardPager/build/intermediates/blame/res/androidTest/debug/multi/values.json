@@ -1,0 +1,458 @@
+[
+    {
+        "outputFile": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 48,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 48,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 61,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 61,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 65,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 65,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 70,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 70,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 65,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 65,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 46,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 46,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 53,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 53,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 52,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 52,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 53,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 53,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 51,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 51,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 52,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 52,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 51,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 51,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 59,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 59,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 61,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 61,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 62,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 62,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 41,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1063,
+                        "endColumn": 41,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1640,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2408
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2413,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2413,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3098
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2852,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 3098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3103,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3572
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\WizardPager\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3103,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 3572
+                    }
+                }
+            }
+        ]
+    }
+]

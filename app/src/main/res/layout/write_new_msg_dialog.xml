@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="5dp"
+    android:layout_height="match_parent">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escriba el nombre o el email de uno de sus contactos del teléfono para escribirle. Mantenga presionado por unos instantes el campo de texto para mostrar todos sus contactos. Seleccione varios contactos para crear una conversación grupal. Si el usuario deseado no están en sus contactos del teléfono debe terminar con una coma para poder reconocer las direcciones."/>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_margin="6dp"
+        android:layout_height="wrap_content">
+        <com.android.ex.chips.RecipientEditTextView
+            android:layout_width="match_parent"
+            android:id="@+id/txtEmail"
+            android:hint="Email de su(s) contacto(s)"
+            android:layout_height="wrap_content"
+            android:selectAllOnFocus="true"
+            android:inputType="text|textEmailAddress" />
+    </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>

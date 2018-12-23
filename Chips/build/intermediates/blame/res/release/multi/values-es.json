@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 51,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 51,
+                        "endOffset": 1184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 53,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1321,
+                        "endColumn": 53,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 38,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 38,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 76,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 80,
+                        "endOffset": 998
+                    }
+                }
+            }
+        ]
+    }
+]

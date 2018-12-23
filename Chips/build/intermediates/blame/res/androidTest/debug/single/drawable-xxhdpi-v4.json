@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\chip_delete.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\chip_delete.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\chip_background.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\chip_background.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\chip_background_selected.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\chip_background_selected.9.png"
+    },
+    {
+        "merged": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\chip_background_invalid.9.png",
+        "source": "D:\\Development\\Nueva Era\\NautaIM\\Chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\chip_background_invalid.9.png"
+    }
+]

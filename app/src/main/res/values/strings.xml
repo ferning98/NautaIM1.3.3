@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nauta IM</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_send_image">SendImageActivity</string>
+    <string name="resNotifTickerText">La aplicación NautaIM ha fallado</string>
+    <string name="resNotifTitle">Enviar Reporte de fallo</string>
+    <string name="resNotifText">Enviar un reporte del fallo de la aplicación a ferning98</string>
+    <string name="resDialogText">Nuestra aplicación ha fallado y queremos saber por qué para que no vuelva a suceder. Está de acuerdo en enviarnos este reporte? Se abirá su cliente de correos.</string>
+    <string name="dialogAccept">Si, claro</string>
+    <string name="dialogDecline">No!</string>
+    <string name="dialogCommentPrompt">Algún Comentario que nos ayude? (opcional, pero nos ayuda mucho)</string>
+    <string name="resDialogTitle">Enviar Reporte de Fallo</string>
+
+    <string name="title_activity_ver_imagen">VerImagenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="notices_title">Notices</string>
+    <string name="notices_close">Close</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
